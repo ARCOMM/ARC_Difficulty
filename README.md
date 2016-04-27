@@ -1,1 +1,1 @@
-# ARC_Difficulty
+# ARCOMM Difficulty
